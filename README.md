@@ -1,0 +1,1 @@
+# Application-of-Quadrature-Method-for-solving-Integrals-and-Integral-Equation
